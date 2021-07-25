@@ -14,11 +14,11 @@ This repository is actively committed to Artificial Intelligence and Neural Netw
 ## Assignment List
 
 
-| Sr NO. 	|  Assignment  	|              Description              	|
-|:------:	|:------------:	|:-------------------------------------:	|
-|    1   	| Assignment_1 	| Philosophy of Artificial Intelligence 	|
-|    2   	| Assignment_2 	| Gödel's incompleteness theorems       	|
-|    3   	| Assignment_3 	| Moravec's Paradox                      	|
+| Sr NO. 	|  Assignment  	|              Description                          	|
+|:------:	|:------------:	|:--------------------------------------------------:	|
+|    1   	| Assignment_1 	| Philosophy of Artificial Intelligence             	|
+|    2   	| Assignment_2 	| Gödel's incompleteness theorems                    	|
+|    3   	| Assignment_3 	| Moravec's Paradox                                 	|
 
 
 
