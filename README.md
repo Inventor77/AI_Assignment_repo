@@ -18,13 +18,14 @@ This repository is actively committed to Artificial Intelligence and Neural Netw
 |:------:	|:------------:	|:-------------------------------------:	|
 |    1   	| Assignment_1 	| Philosophy of Artificial Intelligence 	|
 |    2   	| Assignment_2 	| Gödel's incompleteness theorems       	|
-|    3   	| Assignment_3 	|                                       	|
+|    3   	| Assignment_3 	| Moravec's Paradox                      	|
+
 
 
 
 ## Contact Information
 
-**Shreedutt** _Shreedutt77@gmail.com_
+**Email Id** _Shreedutt77@gmail.com_
 
 
 
