@@ -20,6 +20,8 @@ This repository is actively committed to Artificial Intelligence and Neural Netw
 |    2   	| Assignment_2 	| Gödel's incompleteness theorems                    	|
 |    3   	| Assignment_3 	| Moravec's Paradox                                 	|
 |    4   	| Assignment_4 	| Artificial Intelligence in Ancient Astronomy         	|
+|    5   	| Assignment_5 	| Artificial Intelligence in Ancient Astronomy         	|
+
 
 
 
